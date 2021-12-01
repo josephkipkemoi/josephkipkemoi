@@ -1,6 +1,6 @@
 ### Hi there 👋
-/
-<img src="https://github-readme-stats.vercel.app/api?username=josephkipkemoi&theme=dark&show_icons=true" >
+
+<img src="https://github-readme-stats.vercel.app/api?username=josephkipkemoi&theme=flag_india&show_icons=true" >
 
 
 <!--
