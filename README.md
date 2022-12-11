@@ -2,7 +2,7 @@
 Applications Developed
 
 1. <a href="https://milanatrends.vercel.app" target="_blank">Milana Trends</a>
-2. <a href="https://www.pinaclebet.com" target="_blank">Pinaclebet</a>
+2. <a href="https://www.pinaclebet.com" target="_blank">Pinaclebet (Mobile Version Only)</a>
 <img src="https://github-readme-stats.vercel.app/api?username=josephkipkemoi&theme=flag_india&show_icons=true">
 
 
