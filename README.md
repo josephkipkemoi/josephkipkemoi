@@ -5,11 +5,11 @@
   <li>
     <a href="https://f1secrets.vercel.app/" target="_blank">News/Media Website</a>
   </li>
-    <li>
-    <a href="https://milanatrends.vercel.app/" target="_blank">Fashion Website</a>
-  </li>
   <li>
     <a href="https://pinaclebet.co.ke/" target="_blank">Betting Mobile Web App</a>
+  </li>
+    <li>
+    <a href="https://milanatrends.vercel.app/" target="_blank">Fashion Website</a>
   </li>
 </ul>
 
