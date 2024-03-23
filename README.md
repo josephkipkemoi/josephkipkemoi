@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h4>View ongoing projects: </h4>
+<h4>Ongoing projects: </h4>
 <ul>
   <li>
     <a href="https://f1secrets.vercel.app/" target="_blank">News/Media Website</a>
