@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-<h4>Ongoing projects: </h4>
-<ul>
-  <li>
-    <a href="https://f1secrets.vercel.app/" target="_blank">News/Media Website</a>
-  </li>
-  <li>
-    <a href="https://pinaclebet.co.ke/" target="_blank">Betting Mobile Web App</a>
-  </li>
-    <li>
-    <a href="https://milanatrends.vercel.app/" target="_blank">Fashion Website</a>
-  </li>
-</ul>
-
 <img src="https://github-readme-stats.vercel.app/api?username=josephkipkemoi&theme=flag_india&show_icons=true">
 
 <!--
